@@ -28,3 +28,14 @@ Explore the vast company with a smaller body, and go forward to a new space thro
 [KingMini](https://store.steampowered.com/app/2336310/KingMini/)
 
 ## Giggle Games?
+Hi:) We are Giggle Games!  
+Our Team's vision is to make funny games that many people can enjoy! We love play games so we started to make games.  
+`KinhMini` is our first project and now released on Steam.
+
+### Our Team Members
+- [SYiee](https://github.com/SYiee)
+- [Grace]()
+- [Cherry]()
+- [Ho]()
+- [Insue]()
+
