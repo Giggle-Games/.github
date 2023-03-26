@@ -1,8 +1,15 @@
 # KingMini
 
-It's time to challenge yourself!  
+***It's time to challenge yourself!***
+
 `KingMini` is a game filled with extreme challenges and passion, putting your perseverance and skills to the test.   
 This game is highly recommended for players who crave challenging and fulfilling gameplay. Don't hesitate, take on the challenge with KingMini right now!
+
+- *Price* : 0.99$
+- *View* :Third Person
+- *Play-Method* : Single Player
+- *Tags* : 3D Platformer, Action-Adventure, Funny, Casual
+- *OS* : Window
 
 ## 📽️Trailer
 [![이미지 텍스트](http://img.youtube.com/vi/Z_AtXHbdEzY/0.jpg)](https://www.youtube.com/watch?v=Z_AtXHbdEzY)
@@ -27,15 +34,21 @@ Explore the vast company with a smaller body, and go forward to a new space thro
 
 [KingMini](https://store.steampowered.com/app/2336310/KingMini/)
 
-## Giggle Games?
-Hi:) We are Giggle Games!  
-Our Team's vision is to make funny games that many people can enjoy! We love play games so we started to make games.  
-`KinhMini` is our first project and now released on Steam.
+## Giggle Games
+> **What is Giggle Games?**  
 
-### Our Team Members
+Hello! Our team aims to create amazing games using **the latest technologies** and **creative ideas**. We are not afraid of new challenges and have the ability to respond to the ever-changing gaming industry. Our games provide **pleasure** and **satisfaction** to our customers, and through this, *we are becoming a leader in the game industry*. **Let's make even better games together!**
+
+> **Why Giggle?**  
+ 
+Giggle means **a light, silly laugh**. *As "giggle" means, our team came to name **Giggle Games** to create fun and enjoyable games*.  
+In addition, it contains the intention to **entertain users with cute graphics and simple gameplay**.
+
+
+> **Our Team Members**
 - [SYiee](https://github.com/SYiee)
-- [Grace]()
+- [Hippo](https://github.com/grace7040)
 - [Cherry]()
-- [Ho]()
+- [Hkun_ho](https://velog.io/@hkun_ho/about)
 - [Insue]()
 
