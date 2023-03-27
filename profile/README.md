@@ -14,10 +14,10 @@ In addition, it contains the intention to **entertain users with cute graphics a
 
 > **Our Team Members**
 - [SYiee](https://github.com/SYiee)
-- [Hippo](https://github.com/grace7040)
+- [Grace7040](https://github.com/grace7040)
 - [Cherry](https://github.com/CHERISH61111)
 - [Hkun_ho](https://velog.io/@hkun_ho/about)
-- [Zombie Insue](https://github.com/Sarisol0510)
+- [Sarisol](https://github.com/Sarisol0510)
 
 
 ---
