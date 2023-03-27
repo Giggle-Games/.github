@@ -37,7 +37,9 @@ Explore the vast company with a smaller body, and go forward to a new space thro
 ## Giggle Games
 > **What is Giggle Games?**  
 
-Hello! Our team aims to create amazing games using **the latest technologies** and **creative ideas**. We are not afraid of new challenges and have the ability to respond to the ever-changing gaming industry. Our games provide **pleasure** and **satisfaction** to our customers, and through this, *we are becoming a leader in the game industry*. **Let's make even better games together!**
+Hello! We are Giggle Games! Our History started in the winter of 2022.  
+
+Our team aims to create amazing games using **the latest technologies** and **creative ideas**. We are not afraid of new challenges and have the ability to respond to the ever-changing gaming industry. Our games provide **pleasure** and **satisfaction** to our customers, and through this, *we are becoming a leader in the game industry*. **Let's make even better games together!**
 
 > **Why Giggle?**  
  
@@ -48,7 +50,7 @@ In addition, it contains the intention to **entertain users with cute graphics a
 > **Our Team Members**
 - [SYiee](https://github.com/SYiee)
 - [Hippo](https://github.com/grace7040)
-- [Cherry]()
+- [Cherry](https://github.com/CHERISH61111)
 - [Hkun_ho](https://velog.io/@hkun_ho/about)
-- [Insue]()
+- [Zombie Insue]()
 
